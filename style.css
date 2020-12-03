@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(231, 230, 230) ;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: white;
+    background-color: #343a40;
+    padding: 18px 19px;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    padding-left: 28px;
+    padding-top: 30px;
+
+}
+
+input{
+    min-width: 200px;
+    min-height: 50px;
+    border-radius: 3px;
+    border: rgb(255, 255, 255) 1px solid;
+    padding-left: 18px;
+ 
+}
+.inputt{
+    padding-top: 12px;
+    padding-left: 28px;
+}
+::placeholder{
+    font-size: larger;
+}
+
+table{
+    margin-left: 30px;
+    margin-top: 20px;
+    border-collapse: collapse;
+    border: black 1px solid;
+}
+#tablee{
+    color: white;
+    background-color: #212529;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+
+}
+
+#hor{
+    border-left: rgb(112, 112, 112) 1px solid;
+}
+td{
+    padding: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-left: rgb(112, 112, 112) 1px solid;
+    border-bottom:  rgb(112, 112, 112) 1px solid;
+    color:  rgb(15, 15, 15);
+    width: 300px;
+}
+#first{
+    border-bottom:  rgb(112, 112, 112) 1px solid;
+    color:  rgb(15, 15, 15);
+    width: 170px;
+
+}
+th{
+    padding: 10px;
+}
