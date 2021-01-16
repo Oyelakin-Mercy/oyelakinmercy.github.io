@@ -1,4 +1,4 @@
-# Name variation JS app
+# Name variation
 
 A simple JavaScript web app that changes a word to uppercase, lowercase and the number of characters of the word.
 <br />
